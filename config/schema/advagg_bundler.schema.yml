@@ -25,3 +25,7 @@ advagg_bundler.settings:
         logic:
           type: integer
           label: 'The logic to use for bundling the JS Files.'
+          
+          
+          
+          
